@@ -1,0 +1,1 @@
+web: gunicorn UMIKZ_ecommerce.wsgi
